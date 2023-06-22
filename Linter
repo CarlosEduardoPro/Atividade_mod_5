@@ -1,0 +1,14 @@
+PS C:\Users\LENDA\PycharmProjects\pythonProject> python -m pylint teste/testemultiplos.py         
+************* Module testemultiplos
+teste\testemultiplos.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+teste\testemultiplos.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+teste\testemultiplos.py:5:0: C0103: Class name "Teste_m" doesn't conform to PascalCase naming style (invalid-name)
+teste\testemultiplos.py:6:4: C0116: Missing function or method docstring (missing-function-docstring)
+teste\testemultiplos.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+teste\testemultiplos.py:10:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:12:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:14:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:16:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:1:0: W0611: Unused import pytest (unused-import)
+
+

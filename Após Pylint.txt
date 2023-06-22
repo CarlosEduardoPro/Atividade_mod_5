@@ -1,0 +1,6 @@
+************* Module testemultiplos
+teste\testemultiplos.py:20:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:22:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:24:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:26:8: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+teste\testemultiplos.py:5:0: W0611: Unused import pytest (unused-import)
