@@ -1,0 +1,18 @@
+import pytest
+
+from verificador import m
+
+
+class Teste_m:
+    def setup(self):
+        pass
+
+    def test_m5(self):
+        resultado_1 = m(15)
+        assert resultado_1 == print('Fizz')
+        resultado_2 = m(21)
+        assert resultado_2 == print('Buzz')
+        resultado_3 = m(35)
+        assert resultado_3 == print('FizzBuzz')
+        resultado_4 = m(1)
+        assert resultado_4 == print('Miss')
